@@ -4,7 +4,7 @@
 
 [Tiange Luo](https://tiangeluo.github.io/), [Lajanugen Logeswaran](https://lajanugen.github.io/)&dagger;, [Justin Johnson](https://web.eecs.umich.edu/~justincj)&dagger;, [Honglak Lee](https://web.eecs.umich.edu/~honglak/)&dagger;
 
-We first release our ScreenSpot-Pro code for both UI-TARS and Qwen2.5-VL. All hyperparameters and prompts are not carefully tuned. We are currently considering the strategy for releasing the WebVoyager-related code.
+We release our ScreenSpot-Pro code for both UI-TARS and Qwen2.5-VL. All hyperparameters and prompts are not carefully tuned. Due to company policy, the release of the WebVoyager-related code is no longer permitted.
 
 ## ScreenSpot-Pro
 
